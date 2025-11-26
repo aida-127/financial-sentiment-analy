@@ -1,0 +1,16 @@
+﻿# Virtual environment - IGNORE Python installed packages
+sentiment_environment/
+
+# Jupyter notebooks - IGNORE auto-save files
+.ipynb_checkpoints/
+
+# Data files - IGNORE CSV/Excel files (too big)
+*.csv
+*.xlsx
+
+# Python cache - IGNORE temporary Python files
+__pycache__/
+*.pyc
+
+# Environment variables - IGNORE passwords/API keys
+.env
